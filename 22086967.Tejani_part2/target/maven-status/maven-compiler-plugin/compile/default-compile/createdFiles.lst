@@ -1,0 +1,17 @@
+com\mycompany\tejani_part2\views\ClinicianDialog.class
+com\mycompany\tejani_part2\models\Appointment.class
+com\mycompany\tejani_part2\views\PrescriptionDialog.class
+com\mycompany\tejani_part2\models\ReferralManager.class
+com\mycompany\tejani_part2\utilities\DataManager.class
+com\mycompany\tejani_part2\views\PatientDialog.class
+com\mycompany\tejani_part2\models\Patient.class
+com\mycompany\tejani_part2\models\Prescription.class
+com\mycompany\tejani_part2\views\HealthcareGUI.class
+com\mycompany\tejani_part2\App.class
+com\mycompany\tejani_part2\views\AppointmentDialog.class
+com\mycompany\tejani_part2\controllers\HealthcareController.class
+com\mycompany\tejani_part2\utilities\CSVReader.class
+com\mycompany\tejani_part2\models\Referral.class
+com\mycompany\tejani_part2\views\ReferralDialog.class
+com\mycompany\tejani_part2\models\Clinician.class
+com\mycompany\tejani_part2\models\Facility.class

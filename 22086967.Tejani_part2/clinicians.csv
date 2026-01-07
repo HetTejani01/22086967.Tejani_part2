@@ -1,0 +1,9 @@
+clinician_id,first_name,last_name,title,speciality,gmc_number,phone_number,email,workplace_id,workplace_type,employment_status,start_date
+C001,David,Thompson,Dr.,General Practice,7654321,7110000000,d.thompson@birminghamgp.nhs.uk,S001,GP Surgery,Full-time,2015-06-01
+C002,Helen,Roberts,Dr.,General Practice,7654322,7110000000,h.roberts@birminghamgp.nhs.uk,S001,GP Surgery,Part-time,2016-03-15
+C003,Mark,Davies,Dr.,General Practice,7654323,7110000000,m.davies@solihullgp.nhs.uk,S002,GP Surgery,Full-time,2014-09-01
+C004,Susan,Clarke,Dr.,General Practice,7654324,7110000000,s.clarke@suttongp.nhs.uk,S003,GP Surgery,Full-time,2017-01-10
+C005,Richard,Evans,Consultant,Cardiology,7654325,7110000000,r.evans@heartlandshospital.nhs.uk,H001,Hospital,Full-time,2012-04-15
+C006,Maria,Rodriguez,Consultant,Neurology,7654326,7110000000,m.rodriguez@heartlandshospital.nhs.uk,H001,Hospital,Full-time,2013-07-20
+C007,Andrew,White,Consultant,Orthopaedics,7654327,7110000000,a.white@queenshospital.nhs.uk,H002,Hospital,Full-time,2011-11-01
+C009,Mary,Kelly,Sister,General Nursing,N654321,7110000000,m.kelly@birminghamgp.nhs.uk,S001,GP Surgery,Full-time,2018-02-01

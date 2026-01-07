@@ -1,0 +1,6 @@
+appointment_id,patient_id,clinician_id,facility_id,appointment_date,appointment_time,duration_minutes,appointment_type,status,reason_for_visit,notes,created_date,last_modified
+A001,P001,C001,S001,2024-01-15,09:00,15,Routine Consultation,Scheduled,Annual health check,Patient due for routine screening,2024-01-10,2024-01-10
+A002,P002,C009,S001,2024-01-16,10:30,30,Vaccination,Scheduled,Flu vaccination,Annual flu jab appointment,2024-01-11,2024-01-11
+A003,P003,C003,S002,2024-01-18,14:00,15,Follow-up,Scheduled,Blood pressure check,Follow-up for hypertension,2024-01-12,2024-01-12
+A004,P004,C002,S001,2024-01-20,11:15,20,Urgent Consultation,Scheduled,Chest pain,Patient reports chest discomfort,2024-01-19,2024-01-19
+A005,P005,C005,H001,2024-01-22,15:30,45,Specialist Consultation,Scheduled,Cardiology referral,Referred for heart murmur,2024-01-15,2024-01-15
